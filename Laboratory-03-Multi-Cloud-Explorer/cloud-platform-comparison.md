@@ -12,7 +12,7 @@
 | **Primary Strength**    | Broad range of cloud services and global infrastructure              | Strong Microsoft and enterprise integration                            | AI, machine learning, data analytics, and Kubernetes                                         |
 | **Ideal Organizations** | Startups, enterprises, and organizations needing many cloud services | Organizations using Microsoft technologies and enterprise environments | Organizations focused on AI, data analytics, machine learning, and cloud-native applications |
 
-## Comparison Questions
+## Comparison questions
 
 ### 1. Which cloud provider offers the broadest range of services?
 
