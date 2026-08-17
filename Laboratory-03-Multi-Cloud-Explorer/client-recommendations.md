@@ -57,3 +57,14 @@ I recommend AWS because the e-commerce company needs highly available infrastruc
 * Amazon VPC – for creating and managing the company's cloud network
 * Elastic Load Balancing – for distributing incoming application traffic
 * Amazon EC2 Auto Scaling – for automatically adjusting computing capacity
+
+# Multi-Cloud Decision Matrix
+
+| Business Requirement        | Recommended Platform        | Justification                                                                                                                                                    |
+| --------------------------- | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Startup Company**         | Google Cloud Platform (GCP) | GCP provides scalable cloud infrastructure that can support a startup as its application and number of users grow.                                               |
+| **Enterprise Organization** | Amazon Web Services (AWS)   | AWS provides a broad range of cloud services that can support different enterprise workloads, including computing, storage, networking, databases, and security. |
+| **Microsoft Environment**   | Microsoft Azure             | Azure has strong integration with Microsoft technologies such as Windows Server, Microsoft 365, and Microsoft Entra ID.                                          |
+| **AI / Machine Learning**   | Google Cloud Platform (GCP) | GCP provides strong AI and machine learning capabilities and supports high-performance workloads through its cloud infrastructure and AI services.               |
+| **Kubernetes Deployment**   | Google Cloud Platform (GCP) | Google Kubernetes Engine (GKE) provides a managed Kubernetes environment for deploying and managing containerized applications.                                  |
+| **Global Web Application**  | Amazon Web Services (AWS)   | AWS provides global infrastructure and scalable services that can support web applications serving users from different locations around the world.              |
